@@ -40,11 +40,11 @@ This project performs a **complete advanced-level data science analysis** on For
 
 ## 🔑 Key Insights
 
-1. **BJP won the constituency** with ~49.3% vote share, defeating TMC (~36.7%) by ~26,000 votes
-2. **High-turnout booths strongly favour BJP** — winning ~70%+ of top-quartile turnout booths
+1. **TMC won the constituency** with ~49.3% vote share, defeating BJP (~36.7%) by ~26,000 votes
+2. **High-turnout booths strongly favour TMC** — winning ~70%+ of top-quartile turnout booths
 3. **Battleground booths** (margin < 5%) represent thousands of swing votes that could decide future elections
 4. **NOTA at 0.63%** signals moderate but non-negligible voter dissatisfaction
-5. **Vote entropy** is the single strongest predictor of who wins a booth — more fragmented vote = BJP advantage
+5. **Vote entropy** is the single strongest predictor of who wins a booth — more fragmented vote = TMC advantage
 
 ---
 
