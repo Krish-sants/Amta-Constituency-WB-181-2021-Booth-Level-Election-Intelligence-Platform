@@ -141,6 +141,8 @@ amta-election-analysis/
 - **No demographic overlay** — caste/religion/income data would enrich the model
 - **Future**: Build a Streamlit dashboard for real-time campaign intelligence
 
+  Author
+  Krishanu Santra
+
 ---
 
-*Built as a portfolio-grade data science project. Analysis methodology follows professional political analytics standards.*
