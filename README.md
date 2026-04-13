@@ -1,0 +1,2 @@
+# Amta-Constituency-WB-181-2021-Booth-Level-Election-Intelligence-Platform
+This project performs a **complete advanced-level data science analysis** on Form-20 booth-level election results from **Amta Assembly Constituency (No. 181), West Bengal**. It combines rigorous political analysis with state-of-the-art machine learning to generate insights a professional political strategist would use in a live campaign.
