@@ -28,10 +28,10 @@ This project performs a **complete advanced-level data science analysis** on For
 
 | Candidate | Party |
 |---|---|
-| SUKANTA KUMAR PAUL | BJP |
-| DEBTANU BHATTACHARYA | TMC |
+| SUKANTA KUMAR PAUL | TMC |
+| DEBTANU BHATTACHARYA | BJP |
 | ASIT MITRA | CPI(M) |
-| SANJEEB SANTRA | INC |
+| SANJEEB SANTRA | SUCI |
 | DILIP KUMAR HAIT | IND-1 |
 | BISWANATH DAS | IND-2 |
 | RATAN CHANDRA MALICK | IND-3 |
