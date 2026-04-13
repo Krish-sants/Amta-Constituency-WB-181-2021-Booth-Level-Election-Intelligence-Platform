@@ -88,7 +88,7 @@ This project performs a **complete advanced-level data science analysis** on For
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/amta-election-analysis.git
+git clone https://github.com/Krish-sants/Amta-Constituency-WB-181-2021-Booth-Level-Election-Intelligence-Platform
 cd amta-election-analysis
 ```
 
